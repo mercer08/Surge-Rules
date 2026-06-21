@@ -2,6 +2,18 @@
 # DESC: HK/US broker services for Futu, Moomoo, Longbridge, and Tiger Brokers
 # SOURCE: https://github.com/blackmatrix7/ios_rule_script/issues/1687
 
+# Brand keyword fallbacks for newly introduced or rotating domains
+DOMAIN-KEYWORD,futu
+DOMAIN-KEYWORD,moomoo
+DOMAIN-KEYWORD,longbridge
+DOMAIN-KEYWORD,lbkrs
+DOMAIN-KEYWORD,itiger
+DOMAIN-KEYWORD,tigerbrokers
+DOMAIN-KEYWORD,tigerbbs
+DOMAIN-KEYWORD,laohu8
+DOMAIN-KEYWORD,xiaohu8
+DOMAIN-KEYWORD,zhijianfengyi
+
 # Futu - core domains
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futu.com
