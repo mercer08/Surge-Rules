@@ -16,4 +16,5 @@ DOMAIN-SUFFIX,taboola.com
 DOMAIN-SUFFIX,lokalise.com
 DOMAIN,lokalise-live-lok-s3-fss-export.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.eu-central-1.amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,goperp.exchange
