@@ -1,0 +1,5 @@
+# NAME: YToo
+# DESC: Services routed through the YToo policy group
+
+DOMAIN,emby.ytoo.li
+DOMAIN-SUFFIX,stentvessel.xyz
