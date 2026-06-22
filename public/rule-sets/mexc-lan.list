@@ -1,6 +1,7 @@
 # NAME: MEXC_LAN
 # DESC: MEXC internal and development services
 
+DOMAIN,luban.k8s
 DOMAIN,luban.plumn.xyz
 DOMAIN,web-infra.plumn.xyz
 DOMAIN-SUFFIX,plumn.xyz
