@@ -18,3 +18,5 @@ DOMAIN,lokalise-live-lok-s3-fss-export.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,goperp.exchange
+DOMAIN-SUFFIX,flytogarden.com
+DOMAIN-SUFFIX,hotbookzone.com
